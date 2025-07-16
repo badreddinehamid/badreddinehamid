@@ -1,198 +1,356 @@
-# 👋 Hi there, I'm Badreddine HAMID
+<!-- Custom CSS animations -->
+<style>
+@keyframes float {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-20px); }
+}
+@keyframes glow {
+  0%, 100% { box-shadow: 0 0 5px #00D4FF; }
+  50% { box-shadow: 0 0 20px #00D4FF, 0 0 30px #00D4FF; }
+}
+</style>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Software+Engineer+%F0%9F%9A%80;Backend+Developer+%F0%9F%92%BB;System+Design+Enthusiast+%F0%9F%8F%97%EF%B8%8F;Competitive+Programmer+%F0%9F%A7%A9" alt="Typing SVG" />
-</div>
-
-<p align="center">
-  <a href="mailto:badrhamid33@gmail.com"><img src="https://img.shields.io/badge/-badrhamid33@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/badreddine-hamid"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/badreddinehamid"><img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/-Morocco,%20Rabat-FF6B6B?style=for-the-badge&logo=mapbox&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-+212697676663-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-</p>
-
----
-
-## 🚀 About Me
-
-> *"Driven software engineering student with strong expertise in backend development, competitive programming, and system design"*
-
-🎓 **Currently pursuing** Software Engineering at **National Institute of Posts and Telecommunications (INPT)**  
-🔭 **Building** scalable systems and solving complex technical challenges  
-🌱 **Developing** skills in data analysis and artificial intelligence  
-📋 **Experienced** in project management with Agile methodologies  
-⚡ **Passionate** about system design, competitive programming, and innovation
-
----
-
-## 🛠️ Tech Stack & Skills
-
-### 💻 Programming Languages
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
-</p>
-
-### 🔧 Frameworks & Technologies
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-</p>
-
-### 🗄️ Databases & Cloud
-<p align="left">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
-</p>
-
-### 🔥 Specializations
-<p align="left">
-  <img src="https://img.shields.io/badge/System%20Design-FF6B6B?style=for-the-badge&logo=systemd&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Competitive%20Programming-FFA500?style=for-the-badge&logo=codeforces&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DevOps-326CE5?style=for-the-badge&logo=azure-devops&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Project%20Management-6C5CE7?style=for-the-badge&logo=jira&logoColor=white"/>
-</p>
-
----
-
-## 💼 Professional Experience
-
-### 🏢 **Software Engineer Intern** | *OCP Group* | `Jul 2025 - Sep 2025`
-- 🎯 Developed project management tool for OCP project managers
-- 🔐 Built secure backend using **Spring Boot** with robust authentication
-- 💻 Created responsive frontend using **Next.js**
-- 🚀 Deployed full-stack solution on OCP's internal servers
-
-### 🧡 **Software Engineer Intern** | *Orange Business* | `Dec 2024 - May 2025`
-- 🛠️ Designed and developed **Smartplane** - secure web portal for Crossplane resources
-- ⚛️ Built **React + Redux** frontend for visual resource management
-- 🍃 Developed **Spring Boot** backend services with Kubernetes API integration
-- ☸️ Specialized in **Crossplane resource management** and **REST API design**
-
-### 🔵 **Software Engineer & UX Researcher Intern** | *Epineon* | `Jul 2024 - Aug 2024`
-- 📱 Developed mobile app backend using **Django REST Framework** and **PostgreSQL**
-- 🦋 Built frontend using **Flutter** for seamless integration
-- ⚡ Optimized API functionalities for performance and scalability
-- 🎨 Applied **UI/UX** principles and **Agile methodologies**
-
----
-
-## 🎯 Featured Projects
-
-### 🛍️ **SkillStore** - *Micro E-Commerce SaaS Builder*
-*Full-stack SaaS platform for creating custom online stores*
-- 🔐 **NextAuth** authentication with multi-tenant architecture
-- 📊 **MongoDB & Mongoose** for scoped data models
-- 🏗️ **MEAN stack** implementation with **RESTful APIs**
-
-### 📊 **Kubernetes Resource Dashboard**
-*Interactive dashboard for K8s cluster visualization*
-- ☕ **Java Spring Boot** backend with **Kubernetes Java Client**
-- ⚛️ **React.js** frontend with real-time monitoring
-- 🐳 **Docker** containerization and **RESTful API** design
-
-### 📈 **Stock Market Prediction Platform**
-*AI-powered stock price prediction using LSTM*
-- 🧠 **TensorFlow/Keras** with **LSTM** neural networks
-- 🚀 **FastAPI** backend with **MLflow** for model tracking
-- 🐳 **Docker** containerization for scalable deployment
-
-### 🌸 **Rimal Fragrances E-commerce**
-*Full-stack e-commerce platform for branded fragrances*
-- 🛒 **MERN stack** with cash-on-delivery system
-- 📱 Admin dashboard with **PDF invoice generation**
-- 🚀 **Railway** deployment with **CI/CD** integration
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=badreddinehamid&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=badreddinehamid&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=BADREDDINE%20HAMID&fontSize=60&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=🚀%20Software%20Engineer%20%7C%20System%20Architect%20%7C%20Innovation%20Driver&descAlignY=55&descSize=20"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=badreddinehamid&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=600&size=35&duration=2000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=800&height=150&lines=🌟+CRAFTING+DIGITAL+SOLUTIONS;💻+BACKEND+VIRTUOSO;🧠+COMPETITIVE+PROGRAMMING+NINJA;🏗️+SYSTEM+DESIGN+ARCHITECT;🤖+AI+%26+ML+EXPLORER" alt="Dynamic Typing"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=badreddinehamid&bg_color=1a1b27&color=70a5fd&line=70a5fd&point=white&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="mailto:badrhamid33@gmail.com">
+          <img src="https://img.shields.io/badge/📧%20Email-badrhamid33@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://linkedin.com/in/badreddine-hamid">
+          <img src="https://img.shields.io/badge/💼%20LinkedIn-badreddine--hamid-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/badreddinehamid">
+          <img src="https://img.shields.io/badge/🐱%20GitHub-badreddinehamid-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/>
+        </a>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🌍%20Location-Morocco,%20Rabat-FF6B6B?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=000000"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
 
 ---
 
-## 🎓 Education & Certifications
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header"/>
+</div>
 
-### 🏛️ **National Institute of Posts and Telecommunications (INPT)**
-**Software Engineering Degree** | `Sept 2023 - Present`
-- 📚 **Core Subjects**: Algorithms, Data Structures, OOP, System Design
-- 🐧 **Technical Skills**: Linux Administration, Python, Java
-- 📋 **Management**: Project Management, Agile Methodologies
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40"/> **THE ARCHITECT BEHIND THE CODE**
 
-### 🎯 **CPGE Ibn Bajja School**
-**Preparatory Classes - Math and Physics (MP)** | `Sept 2021 - Jul 2023`
-- 🧮 Advanced Mathematics and Physics foundation
-- 🎯 Competitive exam preparation
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="600">
+</div>
 
----
+```yaml
+name: Badreddine HAMID
+role: Software Engineer & System Architect
+education: National Institute of Posts and Telecommunications (INPT)
+location: Morocco, Rabat
+mission: "Building scalable systems that solve real-world problems"
+philosophy: "Code is poetry, architecture is art"
+current_focus: ["Data Analysis", "AI/ML", "System Design", "Scalable Backend"]
+```
 
-## 🏆 Leadership & Extracurricular
-
-### 🎪 **Forum GENI Entreprises** | *Technical Chief & Design Lead*
-- 👨‍💼 Led technical team for Morocco's largest student-business forum
-- 🤝 Active member of Sponsoring Team
-- 🎯 Managed design responsibilities and technical coordination
-
-### 🏅 **INPT Olympiad 2025** | *Design Chief*
-- 🎨 Directed visual identity for national student Olympiad
-- 📱 Managed design efforts and brand consistency
-
-### 🏐 **INPT Sports Club** | *Design Chief & Volleyball Player*
-- 🏐 Competitive volleyball team member
-- 🎨 Managed design tasks for sports events and communications
-
----
-
-## 🌐 Languages
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Arabic-Native-success?style=for-the-badge&logo=google-translate&logoColor=white"/>
-  <img src="https://img.shields.io/badge/English-Professional-blue?style=for-the-badge&logo=google-translate&logoColor=white"/>
-  <img src="https://img.shields.io/badge/French-Professional-blueviolet?style=for-the-badge&logo=google-translate&logoColor=white"/>
-</p>
-
----
-
-## 🎯 Current Focus
-
-- 🔍 **Data Analysis** and **Artificial Intelligence** development
-- 🏗️ **System Design** and **Software Architecture**
-- 🚀 **Scalable Backend Systems** and **DevOps**
-- 📈 **Machine Learning** and **Deep Learning** applications
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=Thanks%20for%20visiting!&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=70"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header"/>
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="40"/> **ARSENAL OF TECHNOLOGIES**
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
+  <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b8474eb.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100"><img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
 </div>
 
 <div align="center">
-  <p>💡 <strong>Let's connect and build something amazing together!</strong></p>
+  <table>
+    <tr>
+      <td align="center" width="200">
+        <img src="https://skillicons.dev/icons?i=python,java,js,dart,c,cpp" />
+        <br><sub><b>🔥 Core Languages</b></sub>
+      </td>
+      <td align="center" width="200">
+        <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,django,spring" />
+        <br><sub><b>🚀 Frameworks</b></sub>
+      </td>
+      <td align="center" width="200">
+        <img src="https://skillicons.dev/icons?i=mongodb,postgresql,docker,kubernetes,git,flutter" />
+        <br><sub><b>🛠️ Tools & DevOps</b></sub>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-tech-stack.vercel.app/api/cards?title=My%20Tech%20Universe&align=center&titleAlign=center&fontSize=20&lineCount=3&theme=github_dark&line1=python%2Cpython%2C3776AB%3Bjava%2Cjava%2CED8B00%3Bjavascript%2Cjavascript%2CF7DF1E%3Bdart%2Cdart%2C0175C2%3B&line2=react%2Creact%2C61DAFB%3Bnextjs%2Cnextjs%2C000000%3Bspring%2Cspring%2C6DB33F%3Bdjango%2Cdjango%2C092E20%3B&line3=docker%2Cdocker%2C2496ED%3Bkubernetes%2Ckubernetes%2C326CE5%3Bmongodb%2Cmongodb%2C47A248%3Bpostgresql%2Cpostgresql%2C336791%3B"/>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header"/>
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="40"/> **PROFESSIONAL ODYSSEY**
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223683-a7d89a95-7d96-4678-a4b2-3e1c93b5a3a9.gif" width="600">
+</div>
+
+### <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="30"/> **OCP Group** | *Software Engineer Intern* | `Jul 2025 - Sep 2025`
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🎯%20MISSION-Project%20Management%20Revolution-FF6B6B?style=for-the-badge&logo=target&logoColor=white&labelColor=000000"/>
+</div>
+
+```diff
++ 🚀 Engineered comprehensive project management tool for executive oversight
++ 🔐 Architected robust Spring Boot backend with enterprise-grade security
++ 💻 Crafted intuitive Next.js frontend for seamless user experience
++ 🌐 Deployed scalable solution on enterprise infrastructure
+```
+
+### <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="30"/> **Orange Business** | *Software Engineer Intern* | `Dec 2024 - May 2025`
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🛠️%20INNOVATION-Smartplane%20Portal-FFA500?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=000000"/>
+</div>
+
+```diff
++ ☸️ Designed Smartplane - Revolutionary Crossplane resource management portal
++ ⚛️ Built dynamic React + Redux frontend for visual resource orchestration
++ 🍃 Developed Spring Boot microservices with Kubernetes API integration
++ 🔧 Simplified complex infrastructure management for operations teams
+```
+
+### <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="30"/> **Epineon** | *Software Engineer & UX Researcher* | `Jul 2024 - Aug 2024`
+
+<div align="center">
+  <img src="https://img.shields.io/badge/📱%20CREATION-Mobile%20Innovation-00D4FF?style=for-the-badge&logo=flutter&logoColor=white&labelColor=000000"/>
+</div>
+
+```diff
++ 📱 Crafted mobile application backend with Django REST Framework
++ 🦋 Developed Flutter frontend for cross-platform excellence
++ ⚡ Optimized API performance for enterprise-scale operations
++ 🎨 Applied UX research principles for user-centric design
+```
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header"/>
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="40"/> **PERFORMANCE METRICS**
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="600">
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img height="200em" src="https://github-readme-stats.vercel.app/api?username=badreddinehamid&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=ffffff&ring_color=00D4FF"/>
+      </td>
+      <td align="center">
+        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=badreddinehamid&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=ffffff"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=badreddinehamid&theme=radical&hide_border=true&background=0D1117&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF&sideNums=ffffff&currStreakNum=ffffff&dates=ffffff&sideLabels=ffffff" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=badreddinehamid&bg_color=0D1117&color=00D4FF&line=00D4FF&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Galaxy" alt="GitHub Activity Graph"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=badreddinehamid&theme=radical&no-frame=true&column=7&margin-w=10&margin-h=10&no-bg=true"/>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header"/>
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122049-276f2c8c-7b47-4c4e-8dd8-b8b0a4e4e0f7.png" width="40"/> **ACADEMIC EXCELLENCE**
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223211-1d9b4d7c-2cde-4d0a-bb00-5a3ed756e4bd.gif" width="600">
+</div>
+
+### <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="30"/> **National Institute of Posts and Telecommunications (INPT)**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🎓%20DEGREE-Software%20Engineering-00D4FF?style=for-the-badge&logo=graduationcap&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/📅%20TIMELINE-Sept%202023%20-%20Present-FF6B6B?style=for-the-badge&logo=calendar&logoColor=white&labelColor=000000"/>
+</div>
+
+```yaml
+Core Curriculum:
+  - Advanced Algorithms & Data Structures
+  - Object-Oriented Programming Mastery
+  - System Design & Architecture
+  - Linux Administration
+  - Project Management & Agile Methodologies
+```
+
+### <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="30"/> **CPGE Ibn Bajja School**
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🧮%20SPECIALTY-Math%20%26%20Physics%20(MP)-FFA500?style=for-the-badge&logo=mathworks&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/📅%20TIMELINE-Sept%202021%20-%20Jul%202023-FF6B6B?style=for-the-badge&logo=calendar&logoColor=white&labelColor=000000"/>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header"/>
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40"/> **LINGUISTIC MASTERY**
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223168-0a6e8e84-7b07-4c32-9b08-3e9ed6c2ff5c.gif" width="600">
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🇲🇦%20Arabic-Native%20Mastery-success?style=for-the-badge&logo=googletranslate&logoColor=white&labelColor=000000"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🇺🇸%20English-Professional%20Fluency-blue?style=for-the-badge&logo=googletranslate&logoColor=white&labelColor=000000"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🇫🇷%20French-Professional%20Fluency-blueviolet?style=for-the-badge&logo=googletranslate&logoColor=white&labelColor=000000"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header"/>
+</div>
+
+## <img src="https://user-images.githubusercontent.com/74038190/216122028-c4f47c0b-4aaf-4a4c-8b58-31c4c1234750.png" width="40"/> **FUTURE HORIZONS**
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223123-2e1b0c92-b5f0-4b31-9b80-8f9c4c8e2f7a.gif" width="600">
+</div>
+
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🔍%20DATA%20ANALYSIS-Next%20Generation%20Insights-00D4FF?style=for-the-badge&logo=databricks&logoColor=white&labelColor=000000"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🤖%20AI%20%26%20ML-Intelligent%20Solutions-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=000000"/>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🏗️%20SYSTEM%20DESIGN-Scalable%20Architecture-FFA500?style=for-the-badge&logo=systemd&logoColor=white&labelColor=000000"/>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/🚀%20DEVOPS-Cloud%20Native%20Future-6C5CE7?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=000000"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=footer&text=Let's%20Build%20The%20Future%20Together&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=70"/>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+</div>
+
+<div align="center">
+  <h2>🌟 Ready to innovate? Let's connect! 🌟</h2>
+  <p>
+    <a href="mailto:badrhamid33@gmail.com">
+      <img src="https://img.shields.io/badge/📧%20Email%20Me-badrhamid33@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000"/>
+    </a>
+  </p>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=badreddinehamid&style=for-the-badge&color=00D4FF&label=Profile+Views" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/badreddinehamid?style=for-the-badge&color=00D4FF&labelColor=000000&logo=github&label=Followers" alt="GitHub Followers"/>
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
